@@ -18,6 +18,7 @@
 - __Heterogeneous Programming__: Using __SYCL__ to develop a __Numerical Solver__ for the __Linear 2D Heat/Diffusion Equation__. Could be any __Partial Differential Equation__; TBC.
 
 ### Signal Processing
+---
 - ___sigPro___. This is a __Dynamic Library (.SO)__ developed in __Modern C++__, (hopefully __C++20__), which allows the user to perform basic __Signal Processing__ tasks. E.g. converting __temporal data into frequency data__ via the __Discrete Fourier Transform (DFT)__.
 
 - ___fastDFT___. Using __OpenCL__ to develop a solver for the __Discrete Fourier Transform (DFT)__.
