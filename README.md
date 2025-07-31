@@ -36,4 +36,3 @@
 - __Distributed File System__ development in __Golang__. Project Name: ___GoDistIt___.
 - __Rust__ version of __Git__. Project Name: ___RustIt___.
 - __Compiler Development__ using __LLVM__.
-- __Heterogeneous Programming__: Using __SYCL__ to develop a __Numerical Solver__ for the __Linear 2D Heat/Diffusion Equation__. Could be any __Partial Differential Equation__; TBC.
